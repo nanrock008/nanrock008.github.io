@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lili Wang | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/lili-wang/</link>
+      <atom:link href="https://nanrock008.github.io/author/lili-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lili Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Lili Wang</title>
+      <link>https://nanrock008.github.io/author/lili-wang/</link>
+    </image>
+    
+    <item>
+      <title>Large field-induced magnetocaloric effect in Ni 43Mn 46 - XV xSn 11 heusler alloys</title>
+      <link>https://nanrock008.github.io/publication/li-2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave frequency performance and high magnetic anisotropy of Fe 70Co 30 - B films prepared by a modified composition gradient sputtering</title>
+      <link>https://nanrock008.github.io/publication/li-2012-c/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

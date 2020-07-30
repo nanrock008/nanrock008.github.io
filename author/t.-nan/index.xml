@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Nan | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/t.-nan/</link>
+      <atom:link href="https://nanrock008.github.io/author/t.-nan/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Nan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>T. Nan</title>
+      <link>https://nanrock008.github.io/author/t.-nan/</link>
+    </image>
+    
+    <item>
+      <title>Anisotropic spin-orbit torque generation in epitaxial SrIrO3 by symmetry design</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giant electric field control of magnetism and narrow ferromagnetic resonance linewidth in FeCoSiB/Si/SiO2/PMN-PT multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/gao-2016-giant/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2016-giant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent advances in multiferroic oxide heterostructures and devices</title>
+      <link>https://nanrock008.github.io/publication/yang-2016-recent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2016-recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric field control of the magnetization dynamics of ferromagnetic/ferroelectric multiferroic heterostructure</title>
+      <link>https://nanrock008.github.io/publication/xie-2015-electric/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/xie-2015-electric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage tunable multiferroic phase shifter with YIG/PMN-PT heterostructure</title>
+      <link>https://nanrock008.github.io/publication/yang-2014-voltage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2014-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable bandpass filter using partially magnetized ferrites with high power handling capability</title>
+      <link>https://nanrock008.github.io/publication/yang-2013-tunable/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013-tunable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

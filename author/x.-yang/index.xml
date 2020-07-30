@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Yang | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/x.-yang/</link>
+      <atom:link href="https://nanrock008.github.io/author/x.-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>X. Yang</title>
+      <link>https://nanrock008.github.io/author/x.-yang/</link>
+    </image>
+    
+    <item>
+      <title>Giant electric field control of magnetism and narrow ferromagnetic resonance linewidth in FeCoSiB/Si/SiO2/PMN-PT multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/gao-2016-giant/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2016-giant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent advances in multiferroic oxide heterostructures and devices</title>
+      <link>https://nanrock008.github.io/publication/yang-2016-recent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2016-recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wide-band magnetic tunable bandstop filter prototype with FeGaB/Al2O3 multilayer films</title>
+      <link>https://nanrock008.github.io/publication/yang-2015-wide/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2015-wide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-temperature spin spray deposited ferrite/piezoelectric thin film magnetoelectric heterostructures with strong magnetoelectric coupling</title>
+      <link>https://nanrock008.github.io/publication/zhou-2014-low/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2014-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong non-volatile voltage control of magnetism in magnetic/ antiferroelectric magnetoelectric heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2014-strong/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2014-strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage tunable multiferroic phase shifter with YIG/PMN-PT heterostructure</title>
+      <link>https://nanrock008.github.io/publication/yang-2014-voltage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2014-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying thickness-dependent charge mediated magnetoelectric coupling in magnetic/dielectric thin film heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable bandpass filter using partially magnetized ferrites with high power handling capability</title>
+      <link>https://nanrock008.github.io/publication/yang-2013-tunable/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013-tunable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage impulse induced bistable magnetization switching in multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/nan-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

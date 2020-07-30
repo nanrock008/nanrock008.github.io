@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John G. Jones | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/john-g.-jones/</link>
+      <atom:link href="https://nanrock008.github.io/author/john-g.-jones/index.xml" rel="self" type="application/rss+xml" />
+    <description>John G. Jones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>John G. Jones</title>
+      <link>https://nanrock008.github.io/author/john-g.-jones/</link>
+    </image>
+    
+    <item>
+      <title>Spin-orbit torque and spin pumping in YIG/Pt with interfacial insertion layers</title>
+      <link>https://nanrock008.github.io/publication/emori-2018-spin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2018-spin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustically actuated ultra-compact NEMS magnetoelectric antennas</title>
+      <link>https://nanrock008.github.io/publication/nan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of magnetic relaxation by electric-field-induced ferroelectric phase transition and inhomogeneous domain switching</title>
+      <link>https://nanrock008.github.io/publication/nan-2015-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Volatile Ferroelectric Switching of Ferromagnetic Resonance in NiFe/PLZT Multiferroic Thin Film Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/hu-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hu-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of spin-orbit torques and spin pumping across NiFe/Pt and NiFe/Cu/Pt interfaces</title>
+      <link>https://nanrock008.github.io/publication/nan-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the spin-Hall anti-damping torque with a resonance spectrometer</title>
+      <link>https://nanrock008.github.io/publication/emori-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-efficient voltage tunable RF integrated magnetoelectric inductors with FeGaB/Al2O3 multilayer films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014-power/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014-power/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

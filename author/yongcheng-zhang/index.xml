@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongcheng Zhang | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/yongcheng-zhang/</link>
+      <atom:link href="https://nanrock008.github.io/author/yongcheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongcheng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Yongcheng Zhang</title>
+      <link>https://nanrock008.github.io/author/yongcheng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Large E-field tunability of microwave ferromagnetic properties in Fe 59.3Co28.0Hf12.7/PZN-PT multiferroic composites</title>
+      <link>https://nanrock008.github.io/publication/li-2014-large/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2014-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi magnetic isotropy and microwave performance of FeCoB multilayer laminated by uniaxial anisotropic layers</title>
+      <link>https://nanrock008.github.io/publication/li-2014-quasi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2014-quasi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

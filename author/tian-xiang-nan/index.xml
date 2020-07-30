@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tian Xiang Nan | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/tian-xiang-nan/</link>
+      <atom:link href="https://nanrock008.github.io/author/tian-xiang-nan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tian Xiang Nan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Tian Xiang Nan</title>
+      <link>https://nanrock008.github.io/author/tian-xiang-nan/</link>
+    </image>
+    
+    <item>
+      <title>Significantly enhanced inductance and quality factor of GHz integrated magnetic solenoid inductors with FeGaB/Al2O3 Multilayer Films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized growth and dielectric properties of barium titanate thin films on polycrystalline Ni foils</title>
+      <link>https://nanrock008.github.io/publication/liang-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liang-2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

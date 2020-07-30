@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antiferromagnets | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/antiferromagnets/</link>
+      <atom:link href="https://nanrock008.github.io/tag/antiferromagnets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antiferromagnets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Antiferromagnets</title>
+      <link>https://nanrock008.github.io/tag/antiferromagnets/</link>
+    </image>
+    
+    <item>
+      <title>Efficient spin-to-charge conversion for spintronics</title>
+      <link>https://nanrock008.github.io/project/mgn/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/mgn/</guid>
+      <description>&lt;p&gt;Current-induced spin-orbit torque enables highly efficient manipulation of magnetization for spintronic applications. To efficiently and deterministically drive, for example, perpendicularly-magnetized devices that are preferred for high-density memories, an out-of-plane anti-damping torque is required. However, symmetry conditions generally restrict anti-damping torque to lie in the sample plane. We have demonstrated a strategy to achieve unconventional spin-orbit torques, based on long-range non-collinear magnetic order within the bulk of the spin-source layer. These spin torques correspond to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. This approach could enable high efficient manipulation of magnetization for antiferromagnetic spintronics.&lt;/p&gt;
+&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1912.12586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Controlling spin current polarization through non-collinear antiferromagnetism, &lt;em&gt;Nature Communications&lt;/em&gt;, in press&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://advances.sciencemag.org/content/6/30/eaba4017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitaxial antiperovskite/perovskite heterostructures for materials design, &lt;em&gt;Science Advances&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, eaba4017 (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menghui Li | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/menghui-li/</link>
+      <atom:link href="https://nanrock008.github.io/author/menghui-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Menghui Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Menghui Li</title>
+      <link>https://nanrock008.github.io/author/menghui-li/</link>
+    </image>
+    
+    <item>
+      <title>Highly sensitive integrated flexible tactile sensors with piezoresistive Ge 2 Sb2Te5 thin films</title>
+      <link>https://nanrock008.github.io/publication/wang-2018-highly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2018-highly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustically actuated ultra-compact NEMS magnetoelectric antennas</title>
+      <link>https://nanrock008.github.io/publication/nan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-sensitive NEMS magnetoelectric sensor for picotesla DC magnetic field detection</title>
+      <link>https://nanrock008.github.io/publication/li-2017-ultra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2017-ultra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly Sensitive Flexible Magnetic Sensor Based on Anisotropic Magnetoresistance Effect</title>
+      <link>https://nanrock008.github.io/publication/wang-2016-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2016-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

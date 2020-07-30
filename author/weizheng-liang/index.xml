@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weizheng Liang | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/weizheng-liang/</link>
+      <atom:link href="https://nanrock008.github.io/author/weizheng-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weizheng Liang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Weizheng Liang</title>
+      <link>https://nanrock008.github.io/author/weizheng-liang/</link>
+    </image>
+    
+    <item>
+      <title>Role of the interface on the magnetoelectric properties of BaTiO 3 thin films deposited on polycrystalline Ni foils</title>
+      <link>https://nanrock008.github.io/publication/liang-2014-role/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liang-2014-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth behavior and photoluminescence properties of ZnO nanowires on gold nano-particle coated Si surfaces</title>
+      <link>https://nanrock008.github.io/publication/nan-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth dynamics of barium titanate thin films on polycrystalline Ni foils using polymer-assisted deposition technique</title>
+      <link>https://nanrock008.github.io/publication/liang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liang-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Mahalingam | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/k.-mahalingam/</link>
+      <atom:link href="https://nanrock008.github.io/author/k.-mahalingam/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Mahalingam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>K. Mahalingam</title>
+      <link>https://nanrock008.github.io/author/k.-mahalingam/</link>
+    </image>
+    
+    <item>
+      <title>High quality factor integrated gigahertz magnetic transformers with FeGaB/Al2O3 multilayer films for radio frequency integrated circuits applications</title>
+      <link>https://nanrock008.github.io/publication/gao-2014-high/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-temperature spin spray deposited ferrite/piezoelectric thin film magnetoelectric heterostructures with strong magnetoelectric coupling</title>
+      <link>https://nanrock008.github.io/publication/zhou-2014-low/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2014-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying thickness-dependent charge mediated magnetoelectric coupling in magnetic/dielectric thin film heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

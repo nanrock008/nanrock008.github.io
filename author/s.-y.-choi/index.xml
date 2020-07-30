@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Y. Choi | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/s.-y.-choi/</link>
+      <atom:link href="https://nanrock008.github.io/author/s.-y.-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Y. Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>S. Y. Choi</title>
+      <link>https://nanrock008.github.io/author/s.-y.-choi/</link>
+    </image>
+    
+    <item>
+      <title>Anisotropic spin-orbit torque generation in epitaxial SrIrO3 by symmetry design</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Lou | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/j.-lou/</link>
+      <atom:link href="https://nanrock008.github.io/author/j.-lou/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Lou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>J. Lou</title>
+      <link>https://nanrock008.github.io/author/j.-lou/</link>
+    </image>
+    
+    <item>
+      <title>Low-temperature spin spray deposited ferrite/piezoelectric thin film magnetoelectric heterostructures with strong magnetoelectric coupling</title>
+      <link>https://nanrock008.github.io/publication/zhou-2014-low/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2014-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave frequency performance and high magnetic anisotropy of nanocrystalline Fe70Co30-B films prepared by composition gradient sputtering</title>
+      <link>https://nanrock008.github.io/publication/li-2012-microwave/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-microwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave frequency performance and high magnetic anisotropy of Fe 70Co 30 - B films prepared by a modified composition gradient sputtering</title>
+      <link>https://nanrock008.github.io/publication/li-2012-c/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage impulse induced bistable magnetization switching in multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/nan-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ferrites | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/ferrites/</link>
+      <atom:link href="https://nanrock008.github.io/tag/ferrites/index.xml" rel="self" type="application/rss+xml" />
+    <description>ferrites</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>ferrites</title>
+      <link>https://nanrock008.github.io/tag/ferrites/</link>
+    </image>
+    
+    <item>
+      <title>Voltage tunable multiferroic phase shifter with YIG/PMN-PT heterostructure</title>
+      <link>https://nanrock008.github.io/publication/yang-2014-voltage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2014-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact and low loss phase shifter with low bias field using partially magnetized ferrite</title>
+      <link>https://nanrock008.github.io/publication/yang-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual H-and E-field tunable multiferroic bandpass filter at $backslash$rm K U-band using partially magnetized spinel ferrites</title>
+      <link>https://nanrock008.github.io/publication/yang-2013-dual/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013-dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable bandpass filter using partially magnetized ferrites with high power handling capability</title>
+      <link>https://nanrock008.github.io/publication/yang-2013-tunable/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013-tunable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

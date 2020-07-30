@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor M. Oxholm | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/trevor-m.-oxholm/</link>
+      <atom:link href="https://nanrock008.github.io/author/trevor-m.-oxholm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trevor M. Oxholm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Trevor M. Oxholm</title>
+      <link>https://nanrock008.github.io/author/trevor-m.-oxholm/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of spin-orbit torques and spin pumping across NiFe/Pt and NiFe/Cu/Pt interfaces</title>
+      <link>https://nanrock008.github.io/publication/nan-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the spin-Hall anti-damping torque with a resonance spectrometer</title>
+      <link>https://nanrock008.github.io/publication/emori-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

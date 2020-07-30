@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satoru Emori | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/satoru-emori/</link>
+      <atom:link href="https://nanrock008.github.io/author/satoru-emori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Satoru Emori</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Satoru Emori</title>
+      <link>https://nanrock008.github.io/author/satoru-emori/</link>
+    </image>
+    
+    <item>
+      <title>A Strain-Mediated Magnetoelectric-Spin-Torque Hybrid Structure</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-orbit torque and spin pumping in YIG/Pt with interfacial insertion layers</title>
+      <link>https://nanrock008.github.io/publication/emori-2018-spin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2018-spin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of magnetic relaxation by electric-field-induced ferroelectric phase transition and inhomogeneous domain switching</title>
+      <link>https://nanrock008.github.io/publication/nan-2015-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial spin-orbit torque without bulk spin-orbit coupling</title>
+      <link>https://nanrock008.github.io/publication/emori-2015-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of spin-orbit torques and spin pumping across NiFe/Pt and NiFe/Cu/Pt interfaces</title>
+      <link>https://nanrock008.github.io/publication/nan-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated non-reciprocal dual H- and E-Field tunable bandpass filter with ultra-wideband isolation</title>
+      <link>https://nanrock008.github.io/publication/lin-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the spin-Hall anti-damping torque with a resonance spectrometer</title>
+      <link>https://nanrock008.github.io/publication/emori-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

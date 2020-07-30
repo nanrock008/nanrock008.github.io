@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rongdi Guo | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/rongdi-guo/</link>
+      <atom:link href="https://nanrock008.github.io/author/rongdi-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rongdi Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Rongdi Guo</title>
+      <link>https://nanrock008.github.io/author/rongdi-guo/</link>
+    </image>
+    
+    <item>
+      <title>Acoustically actuated ultra-compact NEMS magnetoelectric antennas</title>
+      <link>https://nanrock008.github.io/publication/nan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Volatile Ferroelectric Switching of Ferromagnetic Resonance in NiFe/PLZT Multiferroic Thin Film Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/hu-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hu-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable RF band-pass filters based on NEMS magnetoelectric resonators</title>
+      <link>https://nanrock008.github.io/publication/lin-2016-tunable/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2016-tunable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated non-reciprocal dual H- and E-Field tunable bandpass filter with ultra-wideband isolation</title>
+      <link>https://nanrock008.github.io/publication/lin-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2015-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

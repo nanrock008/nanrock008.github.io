@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/publication-type/1/</link>
+      <atom:link href="https://nanrock008.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>1</title>
+      <link>https://nanrock008.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Tunable RF band-pass filters based on NEMS magnetoelectric resonators</title>
+      <link>https://nanrock008.github.io/publication/lin-2016-tunable/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2016-tunable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric field control of the magnetization dynamics of ferromagnetic/ferroelectric multiferroic heterostructure</title>
+      <link>https://nanrock008.github.io/publication/xie-2015-electric/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/xie-2015-electric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated non-reciprocal dual H- and E-Field tunable bandpass filter with ultra-wideband isolation</title>
+      <link>https://nanrock008.github.io/publication/lin-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming the Trilemma Issues of Ultrahigh Density Perpendicular Magnetic Recording Media by L10- Fe (Co) Pt Materials</title>
+      <link>https://nanrock008.github.io/publication/wang-2015-overcoming/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2015-overcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UHF tunable compact antennas on Co2Z hexaferrite substrate with 2.5/1 tunable frequency range</title>
+      <link>https://nanrock008.github.io/publication/chen-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/chen-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-efficient voltage tunable RF integrated magnetoelectric inductors with FeGaB/Al2O3 multilayer films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014-power/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-sensitive magnetic field sensor based on a low-noise magnetoelectric MEMS-CMOS oscillator</title>
+      <link>https://nanrock008.github.io/publication/hui-2014-ultra/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hui-2014-ultra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEMS resonant magnetic field sensor based on an AlN/FeG aB bilayer nano-plate resonator</title>
+      <link>https://nanrock008.github.io/publication/hui-2013-mems/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hui-2013-mems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zuo Guang Ye | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/zuo-guang-ye/</link>
+      <atom:link href="https://nanrock008.github.io/author/zuo-guang-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zuo Guang Ye</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Zuo Guang Ye</title>
+      <link>https://nanrock008.github.io/author/zuo-guang-ye/</link>
+    </image>
+    
+    <item>
+      <title>Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3-PbTiO3 Multiferroic Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/peng-2017-deterministic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/peng-2017-deterministic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage Control of Perpendicular Magnetic Anisotropy in Multiferroic (Co/Pt)3/PbMg1/3Nb2/3 O3-PbTiO3 Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/yang-2017-voltage/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2017-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrically controlled non-volatile switching of magnetism in multiferroic heterostructures via engineered ferroelastic domain states</title>
+      <link>https://nanrock008.github.io/publication/liu-2016-electrically/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liu-2016-electrically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage control of metal-insulator transition and non-volatile ferroelastic switching of resistance in VOx/PMN-PT heterostructures</title>
+      <link>https://nanrock008.github.io/publication/nan-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

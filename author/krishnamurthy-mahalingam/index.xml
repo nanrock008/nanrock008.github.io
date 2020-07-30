@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krishnamurthy Mahalingam | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/krishnamurthy-mahalingam/</link>
+      <atom:link href="https://nanrock008.github.io/author/krishnamurthy-mahalingam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Krishnamurthy Mahalingam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Krishnamurthy Mahalingam</title>
+      <link>https://nanrock008.github.io/author/krishnamurthy-mahalingam/</link>
+    </image>
+    
+    <item>
+      <title>Interfacial charge-mediated non-volatile magnetoelectric coupling in Co0.3Fe0.7/Ba0.6Sr0.4TiO3/Nb:SrTiO3 multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-efficient voltage tunable RF integrated magnetoelectric inductors with FeGaB/Al2O3 multilayer films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014-power/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significantly enhanced inductance and quality factor of GHz integrated magnetic solenoid inductors with FeGaB/Al2O3 Multilayer Films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

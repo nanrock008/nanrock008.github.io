@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nan Laboratory</title>
+    <link>https://nanrock008.github.io/</link>
+      <atom:link href="https://nanrock008.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nan Laboratory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 21:36:38 +0800</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Nan Laboratory</title>
+      <link>https://nanrock008.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Our first equipment is online!</title>
+      <link>https://nanrock008.github.io/post/first_equipment/</link>
+      <pubDate>Mon, 27 Jul 2020 21:36:38 +0800</pubDate>
+      <guid>https://nanrock008.github.io/post/first_equipment/</guid>
+      <description>&lt;p&gt;We have just installed the cyroFMR for our PPMS DynaCool system. We can now do FMR and ISHE spin pumping measurements at 4-400 K, 2-40 GHz with up to 9 T field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic antennas</title>
+      <link>https://nanrock008.github.io/project/antenna/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/antenna/</guid>
+      <description>&lt;p&gt;It is predicted that over 75 billion of IoT devices will be ready for connection by 2025, via antennas. There are clearly big opportunities for miniaturized antennas. However, the antenna miniaturization has been an open challenge for centuries, until recently. We have created small antennas that have size &lt;strong&gt;100&lt;/strong&gt; times smaller than the state-of-the-art antennas through the innovation in their radiation and transmission mechanisms. We proposed a new acoustically actuated antenna concept: the use of acoustic waves to drive the oscillation of magnetic moment which radiates electromagnetic waves. We constructed and integrated our antennas by the combination of microelectromechanical system (MEMS) and the magnetoelectric thin film materials onto silicon wafers. Such game-changing antennas no longer resonate with electromagnetic waves but radiate electromagnetic waves by the actuation of acoustic waves. Because acoustic waves have much smaller wavelength (as the acoustic wave velocity is much smaller than that of the light wave), we created an acoustic antenna, which operates at 2.5 GHz, miniaturizes the current antenna size over two orders of magnitudes. Our work would bring revolutionary advancement to IoTs, wireless communications, wearable and implantable bio-sensors.&lt;/p&gt;
+&lt;h3 id=&#34;selected-news-report&#34;&gt;Selected News report:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencemag.org/news/2017/08/mini-antennas-could-power-brain-computer-interfaces-medical-devices&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;Mini-antennas could power brain-computer interfaces, medical devices&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Science&lt;/em&gt; doi:10.1126/science.aap7452&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/news/ultra-small-antennas-point-way-to-miniature-brain-implants-1.22507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;Ultra-small antennas point way to miniature brain implants&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; doi:10.1038/nature.2017.22507&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://spectrum.ieee.org/tech-talk/telecom/wireless/tiny-membranebased-antennas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;Tiny Membrane-Based Antennas&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;IEEE spectrum&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;related-publication&#34;&gt;Related publication:&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41467-017-00343-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Acoustically actuated ultra-compact NEMS magnetoelectric antennas&amp;rdquo; &lt;em&gt;Nature Communications&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;, 296, (2017)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient spin-to-charge conversion for spintronics</title>
+      <link>https://nanrock008.github.io/project/mgn/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/mgn/</guid>
+      <description>&lt;p&gt;Current-induced spin-orbit torque enables highly efficient manipulation of magnetization for spintronic applications. To efficiently and deterministically drive, for example, perpendicularly-magnetized devices that are preferred for high-density memories, an out-of-plane anti-damping torque is required. However, symmetry conditions generally restrict anti-damping torque to lie in the sample plane. We have demonstrated a strategy to achieve unconventional spin-orbit torques, based on long-range non-collinear magnetic order within the bulk of the spin-source layer. These spin torques correspond to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. This approach could enable high efficient manipulation of magnetization for antiferromagnetic spintronics.&lt;/p&gt;
+&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1912.12586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Controlling spin current polarization through non-collinear antiferromagnetism, &lt;em&gt;Nature Communications&lt;/em&gt;, in press&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://advances.sciencemag.org/content/6/30/eaba4017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitaxial antiperovskite/perovskite heterostructures for materials design, &lt;em&gt;Science Advances&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, eaba4017 (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient spin-to-charge conversion for spintronics</title>
+      <link>https://nanrock008.github.io/project/sio/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/sio/</guid>
+      <description>&lt;p&gt;The recent exciting discoveries in the field of spintronics include the creating or detecting of spin currents in non-magnetic materials or interfaces with strong spin-orbit coupling, which originates from bulk spin-Hall or interfacial Rashba effects. Importantly, the spin-orbit interaction induced spin polarized currents can interact with magnetic moment and exert torque on the adjacent magnetic materials. Such torque, also known as spin-orbit torque, can efficiently switch the magnetization, and provide means of controlling topological solitons in chiral spin textures (i.e. skyrmions). Materials with high-efficient intrinsic spin-charge conversion is the key to enable those interesting applications.&lt;/p&gt;
+&lt;p&gt;Strongly correlated materials, which harbor quantum many-body system, can be a fertile playground for both fundamental understanding of spin-orbit effects, since the interplay between electron correlation and spin-orbit interaction can give rise to non-trivial electronic band topologies and nonzero Berry curvature. However, such materials have not been fully exploited in the fundamental studies or applications of spintronics so far. We have shown that a perovskite correlated semimetal SrIrO&lt;sub&gt;3&lt;/sub&gt; can indeed generate pure spin current via the spin-Hall effect at room temperature more efficiently than that reported for elemental heavy metals. The efficiency can also be strongly modified by epitaxially tailoring the SrIrO&lt;sub&gt;3&lt;/sub&gt; lattice symmetry, thus suggesting a path toward engineering efficient room-temperature spintronics.&lt;/p&gt;
+&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.pnas.org/content/116/33/16186&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anisotropic spin-orbit torque generation in epitaxial SrIrO&lt;sub&gt;3&lt;/sub&gt; by symmetry design, &lt;em&gt;PNAS&lt;/em&gt; &lt;strong&gt;116&lt;/strong&gt;, 16186-16191, (2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201806371&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A strain-mediated magnetoelectric-spin-torque hybrid structure, &lt;em&gt;Advanced Functional Materials&lt;/em&gt; &lt;strong&gt;29&lt;/strong&gt;, 1806371, (2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.104405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spontaneous Hall Effect enhanced by local Ir moments in epitaxial Pr&lt;sub&gt;2&lt;/sub&gt;Ir&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; thin films, &lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;101&lt;/strong&gt;, 104405 , (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MEMS magnetic sensors</title>
+      <link>https://nanrock008.github.io/project/sensor/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/sensor/</guid>
+      <description>&lt;p&gt;Compact magnetometers show potential to detect neuronal activity that could advance the brain-machine interface technology. We have developed a new class of miniaturized magnetometers by using the MEMS nano-plate resonators loaded with magnetic thin films. By the detection of frequency shifts in these devices, we were able to approach a magnetic field detection limit of a few hundreds pico-Tesla. We have also interfaced the MEMS magnetometer with a low power CMOS oscillator for integrated MEMS-CMOS systems with the direct frequency readout.&lt;/p&gt;
+&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/srep01985&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-biased 215MHz magnetoelectric NEMS resonator for ultra-sensitive DC magnetic field detection, &lt;em&gt;Scientific reports&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;, 1985, (2013)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/6819410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Resolution Magnetometer Based on a High Frequency Magnetoelectric MEMS-CMOS Oscillator, &lt;em&gt;Journal of Microelectromechanical Systems&lt;/em&gt; &lt;strong&gt;24&lt;/strong&gt;, 134, (2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201602910&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Highly sensitive flexible magnetic sensor based on anisotropic magnetoresistance effect, &lt;em&gt;Advanced Materials&lt;/em&gt; &lt;strong&gt;28&lt;/strong&gt;, 9370, (2016)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://aip.scitation.org/doi/10.1063/1.4979694&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultra-sensitive NEMS magnetoelectric sensor for picotesla DC magnetic field detection, &lt;em&gt;Applied Physics Letters&lt;/em&gt; &lt;strong&gt;110&lt;/strong&gt;, 143510 , (2017)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spontaneous Hall effect enhanced by local Ir moments in epitaxial Pr2Ir2O7 thin films</title>
+      <link>https://nanrock008.github.io/publication/guo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/guo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Strain-Mediated Magnetoelectric-Spin-Torque Hybrid Structure</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anisotropic spin-orbit torque generation in epitaxial SrIrO3 by symmetry design</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly sensitive integrated flexible tactile sensors with piezoresistive Ge 2 Sb2Te5 thin films</title>
+      <link>https://nanrock008.github.io/publication/wang-2018-highly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2018-highly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly Sensitive Magnetic Sensor Based on Anisotropic Magnetoresistance Effect</title>
+      <link>https://nanrock008.github.io/publication/wang-2016-highly/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2016-highly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-orbit torque and spin pumping in YIG/Pt with interfacial insertion layers</title>
+      <link>https://nanrock008.github.io/publication/emori-2018-spin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2018-spin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustically actuated ultra-compact NEMS magnetoelectric antennas</title>
+      <link>https://nanrock008.github.io/publication/nan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3-PbTiO3 Multiferroic Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/peng-2017-deterministic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/peng-2017-deterministic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epitaxial multiferroic heterostructures and applications</title>
+      <link>https://nanrock008.github.io/publication/zhu-2017-advances/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhu-2017-advances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-sensitive NEMS magnetoelectric sensor for picotesla DC magnetic field detection</title>
+      <link>https://nanrock008.github.io/publication/li-2017-ultra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2017-ultra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage Control of Perpendicular Magnetic Anisotropy in Multiferroic (Co/Pt)3/PbMg1/3Nb2/3 O3-PbTiO3 Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/yang-2017-voltage/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2017-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of magnetic relaxation by electric-field-induced ferroelectric phase transition and inhomogeneous domain switching</title>
+      <link>https://nanrock008.github.io/publication/nan-2015-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrically controlled non-volatile switching of magnetism in multiferroic heterostructures via engineered ferroelastic domain states</title>
+      <link>https://nanrock008.github.io/publication/liu-2016-electrically/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liu-2016-electrically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giant electric field control of magnetism and narrow ferromagnetic resonance linewidth in FeCoSiB/Si/SiO2/PMN-PT multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/gao-2016-giant/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2016-giant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly Sensitive Flexible Magnetic Sensor Based on Anisotropic Magnetoresistance Effect</title>
+      <link>https://nanrock008.github.io/publication/wang-2016-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2016-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Magnetics and Multiferroics for Compact and Power-Efficient Sensing, Memory, Power, RF, and Microwave Electronics</title>
+      <link>https://nanrock008.github.io/publication/lin-2016-integrated/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2016-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial spin-orbit torque without bulk spin-orbit coupling</title>
+      <link>https://nanrock008.github.io/publication/emori-2015-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Volatile Ferroelectric Switching of Ferromagnetic Resonance in NiFe/PLZT Multiferroic Thin Film Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/hu-2016-non/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hu-2016-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent advances in multiferroic oxide heterostructures and devices</title>
+      <link>https://nanrock008.github.io/publication/yang-2016-recent/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2016-recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The memory effect of magnetoelectric coupling in FeGaB/NiTi/PMN-PT multiferroic heterostructure</title>
+      <link>https://nanrock008.github.io/publication/zhou-2016-memory/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2016-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable RF band-pass filters based on NEMS magnetoelectric resonators</title>
+      <link>https://nanrock008.github.io/publication/lin-2016-tunable/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2016-tunable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wide-band magnetic tunable bandstop filter prototype with FeGaB/Al2O3 multilayer films</title>
+      <link>https://nanrock008.github.io/publication/yang-2015-wide/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2015-wide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antiferroelectric Materials, Applications and Recent Progress on Multiferroic Heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of spin-orbit torques and spin pumping across NiFe/Pt and NiFe/Cu/Pt interfaces</title>
+      <link>https://nanrock008.github.io/publication/nan-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric field control of the magnetization dynamics of ferromagnetic/ferroelectric multiferroic heterostructure</title>
+      <link>https://nanrock008.github.io/publication/xie-2015-electric/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/xie-2015-electric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric field induced reversible 180° magnetization switching through tuning of interfacial exchange bias along magnetic easy-axis in multiferroic laminates</title>
+      <link>https://nanrock008.github.io/publication/xue-2015-electric/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/xue-2015-electric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric field tunability of microwave soft magnetic properties of Co2FeAl Heusler alloy film</title>
+      <link>https://nanrock008.github.io/publication/li-2015-electric/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2015-electric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth behavior and RF/microwave properties of low temperature spin-sprayed NiZn ferrite</title>
+      <link>https://nanrock008.github.io/publication/wang-2015-growth/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2015-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High resolution magnetometer based on a high frequency magnetoelectric MEMS-CMOS oscillator</title>
+      <link>https://nanrock008.github.io/publication/hui-2015-high/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hui-2015-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated non-reciprocal dual H- and E-Field tunable bandpass filter with ultra-wideband isolation</title>
+      <link>https://nanrock008.github.io/publication/lin-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial charge-mediated non-volatile magnetoelectric coupling in Co0.3Fe0.7/Ba0.6Sr0.4TiO3/Nb:SrTiO3 multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large E-field tunability of magnetic anisotropy and ferromagnetic resonance frequency of co-sputtered Fe50Co50-B film</title>
+      <link>https://nanrock008.github.io/publication/li-2015-large/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2015-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiferroic magnetoelectric nanostructures for novel device applications</title>
+      <link>https://nanrock008.github.io/publication/hu-2015-multiferroic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hu-2015-multiferroic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming the Trilemma Issues of Ultrahigh Density Perpendicular Magnetic Recording Media by L10- Fe (Co) Pt Materials</title>
+      <link>https://nanrock008.github.io/publication/wang-2015-overcoming/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2015-overcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing electric field control of magnetism using ferromagnetic resonance</title>
+      <link>https://nanrock008.github.io/publication/zhou-2015-probing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2015-probing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of strain and charge co-mediated magnetoelectric coupling on ultra-thin Permalloy/PMN-PT interface</title>
+      <link>https://nanrock008.github.io/publication/nan-2014/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of the spin-Hall anti-damping torque with a resonance spectrometer</title>
+      <link>https://nanrock008.github.io/publication/emori-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/emori-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UHF tunable compact antennas on Co2Z hexaferrite substrate with 2.5/1 tunable frequency range</title>
+      <link>https://nanrock008.github.io/publication/chen-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/chen-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage control of magnetism in FeGaB/PIN-PMN-PT multiferroic heterostructures for high-power and high-temperature applications</title>
+      <link>https://nanrock008.github.io/publication/hu-2015-voltage/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hu-2015-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage tuning of ferromagnetic resonance and linewidth in spinel ferrite/ferroelectric multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhu-2015-voltage/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhu-2015-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High quality factor integrated gigahertz magnetic transformers with FeGaB/Al2O3 multilayer films for radio frequency integrated circuits applications</title>
+      <link>https://nanrock008.github.io/publication/gao-2014-high/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large E-field tunability of microwave ferromagnetic properties in Fe 59.3Co28.0Hf12.7/PZN-PT multiferroic composites</title>
+      <link>https://nanrock008.github.io/publication/li-2014-large/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2014-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-temperature spin spray deposited ferrite/piezoelectric thin film magnetoelectric heterostructures with strong magnetoelectric coupling</title>
+      <link>https://nanrock008.github.io/publication/zhou-2014-low/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2014-low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-efficient voltage tunable RF integrated magnetoelectric inductors with FeGaB/Al2O3 multilayer films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014-power/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi magnetic isotropy and microwave performance of FeCoB multilayer laminated by uniaxial anisotropic layers</title>
+      <link>https://nanrock008.github.io/publication/li-2014-quasi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2014-quasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of the interface on the magnetoelectric properties of BaTiO 3 thin films deposited on polycrystalline Ni foils</title>
+      <link>https://nanrock008.github.io/publication/liang-2014-role/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liang-2014-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significantly enhanced inductance and quality factor of GHz integrated magnetic solenoid inductors with FeGaB/Al2O3 Multilayer Films</title>
+      <link>https://nanrock008.github.io/publication/gao-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/gao-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong non-volatile voltage control of magnetism in magnetic/ antiferroelectric magnetoelectric heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2014-strong/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2014-strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong vortex core pinning and Barkhausen-free magnetization response in thin Permalloy disks induced by implantation of 1 × 104 Ga &#43; ions</title>
+      <link>https://nanrock008.github.io/publication/fani-2014-strong/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/fani-2014-strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-sensitive magnetic field sensor based on a low-noise magnetoelectric MEMS-CMOS oscillator</title>
+      <link>https://nanrock008.github.io/publication/hui-2014-ultra/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hui-2014-ultra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage control of metal-insulator transition and non-volatile ferroelastic switching of resistance in VOx/PMN-PT heterostructures</title>
+      <link>https://nanrock008.github.io/publication/nan-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage tunable multiferroic phase shifter with YIG/PMN-PT heterostructure</title>
+      <link>https://nanrock008.github.io/publication/yang-2014-voltage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2014-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact and low loss phase shifter with low bias field using partially magnetized ferrite</title>
+      <link>https://nanrock008.github.io/publication/yang-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual H-and E-field tunable multiferroic bandpass filter at $backslash$rm K U-band using partially magnetized spinel ferrites</title>
+      <link>https://nanrock008.github.io/publication/yang-2013-dual/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013-dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth behaviors and characteristics of low temperature spin-sprayed ZnO and Al-doped ZnO microstructures</title>
+      <link>https://nanrock008.github.io/publication/obi-2013-growth/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/obi-2013-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequivalence of direct and converse magnetoelectric coupling at electromechanical resonance</title>
+      <link>https://nanrock008.github.io/publication/wu-2013-inequivalence/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wu-2013-inequivalence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large E-field tunability of microwave ferromagnetic properties in Fe 50Co50-Hf/lead zinc niobate-lead titanate multiferroic laminates</title>
+      <link>https://nanrock008.github.io/publication/li-2013-large/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2013-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEMS resonant magnetic field sensor based on an AlN/FeG aB bilayer nano-plate resonator</title>
+      <link>https://nanrock008.github.io/publication/hui-2013-mems/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hui-2013-mems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave frequency performance and high magnetic anisotropy of nanocrystalline Fe70Co30-B films prepared by composition gradient sputtering</title>
+      <link>https://nanrock008.github.io/publication/li-2012-microwave/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-microwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying thickness-dependent charge mediated magnetoelectric coupling in magnetic/dielectric thin film heterostructures</title>
+      <link>https://nanrock008.github.io/publication/zhou-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/zhou-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-biased 215MHz magnetoelectric NEMS resonator for ultra-sensitive DC magnetic field detection</title>
+      <link>https://nanrock008.github.io/publication/nan-2013-a/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress competition and vortex magnetic anisotropy in FeCoAlO high-frequency soft magnetic films with gradient Al-O contents</title>
+      <link>https://nanrock008.github.io/publication/li-2013-stress/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2013-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable bandpass filter using partially magnetized ferrites with high power handling capability</title>
+      <link>https://nanrock008.github.io/publication/yang-2013-tunable/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/yang-2013-tunable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage tuning of ferromagnetic resonance with bistable magnetization switching in energy-efficient magnetoelectric composites</title>
+      <link>https://nanrock008.github.io/publication/liu-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liu-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth behavior and photoluminescence properties of ZnO nanowires on gold nano-particle coated Si surfaces</title>
+      <link>https://nanrock008.github.io/publication/nan-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth dynamics of barium titanate thin films on polycrystalline Ni foils using polymer-assisted deposition technique</title>
+      <link>https://nanrock008.github.io/publication/liang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large field-induced magnetocaloric effect in Ni 43Mn 46 - XV xSn 11 heusler alloys</title>
+      <link>https://nanrock008.github.io/publication/li-2012-b/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave frequency performance and high magnetic anisotropy of Fe 70Co 30 - B films prepared by a modified composition gradient sputtering</title>
+      <link>https://nanrock008.github.io/publication/li-2012-c/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2012-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized growth and dielectric properties of barium titanate thin films on polycrystalline Ni foils</title>
+      <link>https://nanrock008.github.io/publication/liang-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liang-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage impulse induced bistable magnetization switching in multiferroic heterostructures</title>
+      <link>https://nanrock008.github.io/publication/nan-2012-a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

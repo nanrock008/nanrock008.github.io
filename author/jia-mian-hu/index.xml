@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Mian Hu | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/jia-mian-hu/</link>
+      <atom:link href="https://nanrock008.github.io/author/jia-mian-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Mian Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Jia Mian Hu</title>
+      <link>https://nanrock008.github.io/author/jia-mian-hu/</link>
+    </image>
+    
+    <item>
+      <title>A Strain-Mediated Magnetoelectric-Spin-Torque Hybrid Structure</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrically controlled non-volatile switching of magnetism in multiferroic heterostructures via engineered ferroelastic domain states</title>
+      <link>https://nanrock008.github.io/publication/liu-2016-electrically/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/liu-2016-electrically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiferroic magnetoelectric nanostructures for novel device applications</title>
+      <link>https://nanrock008.github.io/publication/hu-2015-multiferroic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hu-2015-multiferroic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xing Xing | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/xing-xing/</link>
+      <atom:link href="https://nanrock008.github.io/author/xing-xing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xing Xing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Xing Xing</title>
+      <link>https://nanrock008.github.io/author/xing-xing/</link>
+    </image>
+    
+    <item>
+      <title>Growth behavior and RF/microwave properties of low temperature spin-sprayed NiZn ferrite</title>
+      <link>https://nanrock008.github.io/publication/wang-2015-growth/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/wang-2015-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth behaviors and characteristics of low temperature spin-sprayed ZnO and Al-doped ZnO microstructures</title>
+      <link>https://nanrock008.github.io/publication/obi-2013-growth/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/obi-2013-growth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

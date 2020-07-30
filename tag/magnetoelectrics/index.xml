@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnetoelectrics | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/magnetoelectrics/</link>
+      <atom:link href="https://nanrock008.github.io/tag/magnetoelectrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magnetoelectrics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Magnetoelectrics</title>
+      <link>https://nanrock008.github.io/tag/magnetoelectrics/</link>
+    </image>
+    
+    <item>
+      <title>Acoustic antennas</title>
+      <link>https://nanrock008.github.io/project/antenna/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/antenna/</guid>
+      <description>&lt;p&gt;It is predicted that over 75 billion of IoT devices will be ready for connection by 2025, via antennas. There are clearly big opportunities for miniaturized antennas. However, the antenna miniaturization has been an open challenge for centuries, until recently. We have created small antennas that have size &lt;strong&gt;100&lt;/strong&gt; times smaller than the state-of-the-art antennas through the innovation in their radiation and transmission mechanisms. We proposed a new acoustically actuated antenna concept: the use of acoustic waves to drive the oscillation of magnetic moment which radiates electromagnetic waves. We constructed and integrated our antennas by the combination of microelectromechanical system (MEMS) and the magnetoelectric thin film materials onto silicon wafers. Such game-changing antennas no longer resonate with electromagnetic waves but radiate electromagnetic waves by the actuation of acoustic waves. Because acoustic waves have much smaller wavelength (as the acoustic wave velocity is much smaller than that of the light wave), we created an acoustic antenna, which operates at 2.5 GHz, miniaturizes the current antenna size over two orders of magnitudes. Our work would bring revolutionary advancement to IoTs, wireless communications, wearable and implantable bio-sensors.&lt;/p&gt;
+&lt;h3 id=&#34;selected-news-report&#34;&gt;Selected News report:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencemag.org/news/2017/08/mini-antennas-could-power-brain-computer-interfaces-medical-devices&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;Mini-antennas could power brain-computer interfaces, medical devices&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Science&lt;/em&gt; doi:10.1126/science.aap7452&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/news/ultra-small-antennas-point-way-to-miniature-brain-implants-1.22507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;Ultra-small antennas point way to miniature brain implants&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; doi:10.1038/nature.2017.22507&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://spectrum.ieee.org/tech-talk/telecom/wireless/tiny-membranebased-antennas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&amp;ldquo;Tiny Membrane-Based Antennas&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;, &lt;em&gt;IEEE spectrum&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;related-publication&#34;&gt;Related publication:&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41467-017-00343-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Acoustically actuated ultra-compact NEMS magnetoelectric antennas&amp;rdquo; &lt;em&gt;Nature Communications&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;, 296, (2017)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

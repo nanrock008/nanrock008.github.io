@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnetometer | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/magnetometer/</link>
+      <atom:link href="https://nanrock008.github.io/tag/magnetometer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magnetometer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
+      <title>Magnetometer</title>
+      <link>https://nanrock008.github.io/tag/magnetometer/</link>
+    </image>
+    
+    <item>
+      <title>MEMS magnetic sensors</title>
+      <link>https://nanrock008.github.io/project/sensor/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/sensor/</guid>
+      <description>&lt;p&gt;Compact magnetometers show potential to detect neuronal activity that could advance the brain-machine interface technology. We have developed a new class of miniaturized magnetometers by using the MEMS nano-plate resonators loaded with magnetic thin films. By the detection of frequency shifts in these devices, we were able to approach a magnetic field detection limit of a few hundreds pico-Tesla. We have also interfaced the MEMS magnetometer with a low power CMOS oscillator for integrated MEMS-CMOS systems with the direct frequency readout.&lt;/p&gt;
+&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/srep01985&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-biased 215MHz magnetoelectric NEMS resonator for ultra-sensitive DC magnetic field detection, &lt;em&gt;Scientific reports&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;, 1985, (2013)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/6819410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Resolution Magnetometer Based on a High Frequency Magnetoelectric MEMS-CMOS Oscillator, &lt;em&gt;Journal of Microelectromechanical Systems&lt;/em&gt; &lt;strong&gt;24&lt;/strong&gt;, 134, (2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201602910&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Highly sensitive flexible magnetic sensor based on anisotropic magnetoresistance effect, &lt;em&gt;Advanced Materials&lt;/em&gt; &lt;strong&gt;28&lt;/strong&gt;, 9370, (2016)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://aip.scitation.org/doi/10.1063/1.4979694&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultra-sensitive NEMS magnetoelectric sensor for picotesla DC magnetic field detection, &lt;em&gt;Applied Physics Letters&lt;/em&gt; &lt;strong&gt;110&lt;/strong&gt;, 143510 , (2017)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Magnetics and Multiferroics for Compact and Power-Efficient Sensing, Memory, Power, RF, and Microwave Electronics</title>
+      <link>https://nanrock008.github.io/publication/lin-2016-integrated/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/lin-2016-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High resolution magnetometer based on a high frequency magnetoelectric MEMS-CMOS oscillator</title>
+      <link>https://nanrock008.github.io/publication/hui-2015-high/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/hui-2015-high/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
