@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spintronics | Nan Laboratory</title>
+    <title>spintronics | Nan Laboratory</title>
     <link>https://nanrock008.github.io/tag/spintronics/</link>
       <atom:link href="https://nanrock008.github.io/tag/spintronics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Spintronics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <description>spintronics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 21 Sep 2020 12:36:38 +0800</lastBuildDate>
     <image>
-      <url>https://nanrock008.github.io/images/logo_huf22bf044f8d94aa61eb3ed7a23a3c29d_42578_300x300_fit_lanczos_2.png</url>
-      <title>Spintronics</title>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>spintronics</title>
       <link>https://nanrock008.github.io/tag/spintronics/</link>
     </image>
     
     <item>
-      <title>Efficient spin-to-charge conversion for spintronics</title>
-      <link>https://nanrock008.github.io/project/mgn/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://nanrock008.github.io/project/mgn/</guid>
-      <description>&lt;p&gt;Current-induced spin-orbit torque enables highly efficient manipulation of magnetization for spintronic applications. To efficiently and deterministically drive, for example, perpendicularly-magnetized devices that are preferred for high-density memories, an out-of-plane anti-damping torque is required. However, symmetry conditions generally restrict anti-damping torque to lie in the sample plane. We have demonstrated a strategy to achieve unconventional spin-orbit torques, based on long-range non-collinear magnetic order within the bulk of the spin-source layer. These spin torques correspond to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. This approach could enable high efficient manipulation of magnetization for antiferromagnetic spintronics.&lt;/p&gt;
-&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1912.12586&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Controlling spin current polarization through non-collinear antiferromagnetism, &lt;em&gt;Nature Communications&lt;/em&gt;, in press&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://advances.sciencemag.org/content/6/30/eaba4017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitaxial antiperovskite/perovskite heterostructures for materials design, &lt;em&gt;Science Advances&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, eaba4017 (2020)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Our work on antiferromagentic spintronics was published in Nature Communications.</title>
+      <link>https://nanrock008.github.io/post/mgn_nc-paper/</link>
+      <pubDate>Mon, 21 Sep 2020 12:36:38 +0800</pubDate>
+      <guid>https://nanrock008.github.io/post/mgn_nc-paper/</guid>
+      <description>&lt;p&gt;Our paper, 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-020-17999-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Controlling spin current polarization through non-collinear antiferromagnetism&amp;rdquo;&lt;/a&gt; is now out at Nature Communications.&lt;/p&gt;
+&lt;p&gt;In this work, we show control of the spin polarization direction by using a non-collinear antiferromagnet Mn3GaN, in which the triangular spin structure creates a low magnetic symmetry while maintaining a high crystalline symmetry. We demonstrate that epitaxial Mn3GaN/permalloy heterostructures can generate unconventional spin-orbit torques at room temperature corresponding to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. Our results demonstrate an approach based on spin-structure design for controlling spin-orbit torque, enabling high-efficient antiferromagnetic spintronics.&lt;/p&gt;
+&lt;p&gt;T. Nan, C. X. Quintela, J. Irwin, &lt;em&gt;et al.&lt;/em&gt; &lt;em&gt;Nature Communications&lt;/em&gt; &lt;strong&gt;11&lt;/strong&gt;, 4671 (2020)&lt;/p&gt;
 </description>
     </item>
     
@@ -43,6 +39,22 @@
 &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201806371&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A strain-mediated magnetoelectric-spin-torque hybrid structure, &lt;em&gt;Advanced Functional Materials&lt;/em&gt; &lt;strong&gt;29&lt;/strong&gt;, 1806371, (2019)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.104405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spontaneous Hall Effect enhanced by local Ir moments in epitaxial Pr&lt;sub&gt;2&lt;/sub&gt;Ir&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; thin films, &lt;em&gt;Physical Review B&lt;/em&gt; &lt;strong&gt;101&lt;/strong&gt;, 104405 , (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unconventional spin-orbit torques in non-collinear antiferromagnets</title>
+      <link>https://nanrock008.github.io/project/mgn/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/project/mgn/</guid>
+      <description>&lt;p&gt;Current-induced spin-orbit torque enables highly efficient manipulation of magnetization for spintronic applications. To efficiently and deterministically drive, for example, perpendicularly-magnetized devices that are preferred for high-density memories, an out-of-plane anti-damping torque is required. However, symmetry conditions generally restrict anti-damping torque to lie in the sample plane. We have demonstrated a strategy to achieve unconventional spin-orbit torques, based on long-range non-collinear magnetic order within the bulk of the spin-source layer. These spin torques correspond to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. This approach could enable high efficient manipulation of magnetization for antiferromagnetic spintronics.&lt;/p&gt;
+&lt;h3 id=&#34;related-publications&#34;&gt;Related publications:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41467-020-17999-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Controlling spin current polarization through non-collinear antiferromagnetism, &lt;em&gt;Nature Communications&lt;/em&gt; &lt;strong&gt;11&lt;/strong&gt;, 4671 (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://advances.sciencemag.org/content/6/30/eaba4017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitaxial antiperovskite/perovskite heterostructures for materials design, &lt;em&gt;Science Advances&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, eaba4017 (2020)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

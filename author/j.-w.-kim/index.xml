@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. -W. Kim | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/j.-w.-kim/</link>
+      <atom:link href="https://nanrock008.github.io/author/j.-w.-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. -W. Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>J. -W. Kim</title>
+      <link>https://nanrock008.github.io/author/j.-w.-kim/</link>
+    </image>
+    
+    <item>
+      <title>Controlling spin current polarization through non-collinear antiferromagnetism</title>
+      <link>https://nanrock008.github.io/publication/nan-2020/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

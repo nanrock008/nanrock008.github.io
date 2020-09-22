@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antiferromagnetic | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/antiferromagnetic/</link>
+      <atom:link href="https://nanrock008.github.io/tag/antiferromagnetic/index.xml" rel="self" type="application/rss+xml" />
+    <description>antiferromagnetic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 21 Sep 2020 12:36:38 +0800</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>antiferromagnetic</title>
+      <link>https://nanrock008.github.io/tag/antiferromagnetic/</link>
+    </image>
+    
+    <item>
+      <title>Our work on antiferromagentic spintronics was published in Nature Communications.</title>
+      <link>https://nanrock008.github.io/post/mgn_nc-paper/</link>
+      <pubDate>Mon, 21 Sep 2020 12:36:38 +0800</pubDate>
+      <guid>https://nanrock008.github.io/post/mgn_nc-paper/</guid>
+      <description>&lt;p&gt;Our paper, 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-020-17999-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Controlling spin current polarization through non-collinear antiferromagnetism&amp;rdquo;&lt;/a&gt; is now out at Nature Communications.&lt;/p&gt;
+&lt;p&gt;In this work, we show control of the spin polarization direction by using a non-collinear antiferromagnet Mn3GaN, in which the triangular spin structure creates a low magnetic symmetry while maintaining a high crystalline symmetry. We demonstrate that epitaxial Mn3GaN/permalloy heterostructures can generate unconventional spin-orbit torques at room temperature corresponding to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. Our results demonstrate an approach based on spin-structure design for controlling spin-orbit torque, enabling high-efficient antiferromagnetic spintronics.&lt;/p&gt;
+&lt;p&gt;T. Nan, C. X. Quintela, J. Irwin, &lt;em&gt;et al.&lt;/em&gt; &lt;em&gt;Nature Communications&lt;/em&gt; &lt;strong&gt;11&lt;/strong&gt;, 4671 (2020)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
