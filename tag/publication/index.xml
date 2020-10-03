@@ -5,12 +5,24 @@
     <link>https://nanrock008.github.io/tag/publication/</link>
       <atom:link href="https://nanrock008.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Mon, 21 Sep 2020 12:36:38 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Fri, 02 Oct 2020 19:57:38 +0800</lastBuildDate>
     <image>
       <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
       <title>publication</title>
       <link>https://nanrock008.github.io/tag/publication/</link>
     </image>
+    
+    <item>
+      <title>Our work on voltage control of spin dynamics was published in Science Advances.</title>
+      <link>https://nanrock008.github.io/post/ferh_paper/</link>
+      <pubDate>Fri, 02 Oct 2020 19:57:38 +0800</pubDate>
+      <guid>https://nanrock008.github.io/post/ferh_paper/</guid>
+      <description>&lt;p&gt;Our paper, 
+&lt;a href=&#34;https://advances.sciencemag.org/content/6/40/eabd2613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Electric-field control of spin dynamics during magnetic phase transitions&amp;rdquo;&lt;/a&gt; is now out at Science Advances.&lt;/p&gt;
+&lt;p&gt;In this work, we propose an approach to manipulate the damping by using the large damping enhancement induced by the two-magnon scattering and a nonlocal spin relaxation process in which spin currents are resonantly transported from antiferromagnetic domains to ferromagnetic matrix in a mixed-phased metallic alloy FeRh. This damping enhancement in FeRh is sensitive to its fraction of antiferromagnetic and ferromagnetic phases, which can be dynamically tuned by electric fields through a strain-mediated magnetoelectric coupling. In a heterostructure of FeRh and piezoelectric PMN-PT, we demonstrated a more than 120% modulation of the effective damping by electric fields during the antiferromagnetic-to-ferromagnetic phase transition. Our results demonstrate an efficient approach to controlling the magnetization dynamics, thus enabling low-power tunable electronics.&lt;/p&gt;
+&lt;p&gt;Tianxiang Nan, Yeonbae Lee, Shihao Zhuang, Zhongqiang Hu, James D. Clarkson, Xinjun Wang, Changhyun Ko, HwanSung Choe, Zuhuang Chen, David Budil, Junqiao Wu, Sayeef Salahuddin, Jiamian Hu, Ramamoorthy Ramesh, Nian Sun, &lt;em&gt;Science Advances&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, eabd2613 (2020)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our work on antiferromagentic spintronics was published in Nature Communications.</title>

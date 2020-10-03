@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Choe | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/h.-choe/</link>
+      <atom:link href="https://nanrock008.github.io/author/h.-choe/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Choe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>H. Choe</title>
+      <link>https://nanrock008.github.io/author/h.-choe/</link>
+    </image>
+    
+    <item>
+      <title>Electric-field control of spin dynamics during magnetic phase transitions</title>
+      <link>https://nanrock008.github.io/publication/nan-2020-a/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2020-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
