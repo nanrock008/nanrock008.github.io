@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nanrock008.github.io/tag/antennas/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nanrock008.github.io/tag/mems/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nanrock008.github.io/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nanrock008.github.io/post/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nanrock008.github.io/tags/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nanrock008.github.io/post/tr35/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nanrock008.github.io/tag/ferh/</loc>
     <lastmod>2020-10-02T19:57:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nanrock008.github.io/</loc>
-    <lastmod>2020-10-02T19:57:38+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nanrock008.github.io/post/ferh_paper/</loc>
-    <lastmod>2020-10-02T19:57:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanrock008.github.io/post/</loc>
     <lastmod>2020-10-02T19:57:38+08:00</lastmod>
   </url>
   
@@ -34,11 +54,6 @@
   
   <url>
     <loc>https://nanrock008.github.io/tag/spintronics/</loc>
-    <lastmod>2020-10-02T19:57:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanrock008.github.io/tags/</loc>
     <lastmod>2020-10-02T19:57:38+08:00</lastmod>
   </url>
   
@@ -323,11 +338,6 @@
   </url>
   
   <url>
-    <loc>https://nanrock008.github.io/tag/antennas/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nanrock008.github.io/project/sio/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
@@ -339,11 +349,6 @@
   
   <url>
     <loc>https://nanrock008.github.io/tag/magnetometer/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanrock008.github.io/tag/mems/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -2488,6 +2493,10 @@
   
   <url>
     <loc>https://nanrock008.github.io/author/chenye-zhang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nanrock008.github.io/author/guiping-ji/</loc>
   </url>
   
   <url>
