@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antiferromagnetic spintronics | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/antiferromagnetic-spintronics/</link>
+      <atom:link href="https://nanrock008.github.io/tag/antiferromagnetic-spintronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>antiferromagnetic spintronics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 28 Apr 2021 12:36:38 +0800</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>antiferromagnetic spintronics</title>
+      <link>https://nanrock008.github.io/tag/antiferromagnetic-spintronics/</link>
+    </image>
+    
+    <item>
+      <title>Tianxiang gave an invited talk in the Intermag2021</title>
+      <link>https://nanrock008.github.io/post/intermag2021post/</link>
+      <pubDate>Wed, 28 Apr 2021 12:36:38 +0800</pubDate>
+      <guid>https://nanrock008.github.io/post/intermag2021post/</guid>
+      <description>&lt;p&gt;Tianxiang gave an invited talk entitled &amp;ldquo;Controlling spin current polarization through non-collinear antiferromagnetism&amp;rdquo; in the Intermag 2021 conference. This talk is related to our paper, 
+&lt;a href=&#34;https://www.nature.com/articles/s41467-020-17999-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Controlling spin current polarization through non-collinear antiferromagnetism, Nature Communications 2020&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

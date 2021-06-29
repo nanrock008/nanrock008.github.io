@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Yang | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/yang-yang/</link>
+      <atom:link href="https://nanrock008.github.io/author/yang-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>Yang Yang</title>
+      <link>https://nanrock008.github.io/author/yang-yang/</link>
+    </image>
+    
+  </channel>
+</rss>
