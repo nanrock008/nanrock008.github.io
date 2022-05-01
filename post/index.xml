@@ -5,12 +5,25 @@
     <link>https://nanrock008.github.io/post/</link>
       <atom:link href="https://nanrock008.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Tue, 25 May 2021 12:36:38 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
       <link>https://nanrock008.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Our work on anisotropic magnon spin transport was published in Nano Letters.</title>
+      <link>https://nanrock008.github.io/post/mafo1_paper/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/post/mafo1_paper/</guid>
+      <description>&lt;p&gt;Our paper, 
+&lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acs.nanolett.1c04332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Anisotropic magnon spin transport in ultrathin spinel ferrite thin films-evidence for anisotropy in exchange stiffness&amp;rdquo;&lt;/a&gt; is now out at Nano Letters.&lt;/p&gt;
+&lt;p&gt;Magnon-mediated spin flow in magnetically ordered insulators enables long-distance spin-based information transport with low dissipation. In the materials studied to date, no anisotropy has been observed in the magnon propagation length as a function of propagation direction. Here, we report measurements of magnon spin transport in a spinel ferrite, magnesium aluminum ferrite MgAl0.5Fe1.5O4 (MAFO), which has a substantial in-plane 4-fold magnetic anisotropy. We observe spin diffusion lengths &amp;gt; 0.8 μm at room temperature in 6 nm films, with spin diffusion lengths 30% longer along the easy axes compared to the hard axes. The sign of this difference is opposite to the effects just of anisotropy in the magnetic energy for a uniform magnetic state. We suggest instead that accounting for anisotropy in exchange stiffness is necessary to explain these results. These findings provide an approach for controlling magnon transport via strain, which opens new opportunities for designing magnonic devices.&lt;/p&gt;
+&lt;p&gt;Ruofan Li, Peng Li, Di Yi, Lauren J. Riddiford, Yahong Chai, Yuri Suzuki, Daniel C. Ralph, and Tianxiang Nan
+, &lt;em&gt;Nano Letters&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;, 1167-1173 (2022)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tianxiang gave an invited seminar at the Institute of Physics, CAS</title>

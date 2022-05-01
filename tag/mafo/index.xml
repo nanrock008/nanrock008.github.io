@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>magnon transport | Nan Laboratory</title>
-    <link>https://nanrock008.github.io/tag/magnon-transport/</link>
-      <atom:link href="https://nanrock008.github.io/tag/magnon-transport/index.xml" rel="self" type="application/rss+xml" />
-    <description>magnon transport</description>
+    <title>MAFO | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/tag/mafo/</link>
+      <atom:link href="https://nanrock008.github.io/tag/mafo/index.xml" rel="self" type="application/rss+xml" />
+    <description>MAFO</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
-      <title>magnon transport</title>
-      <link>https://nanrock008.github.io/tag/magnon-transport/</link>
+      <title>MAFO</title>
+      <link>https://nanrock008.github.io/tag/mafo/</link>
     </image>
     
     <item>
@@ -23,14 +23,6 @@
 &lt;p&gt;Ruofan Li, Peng Li, Di Yi, Lauren J. Riddiford, Yahong Chai, Yuri Suzuki, Daniel C. Ralph, and Tianxiang Nan
 , &lt;em&gt;Nano Letters&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;, 1167-1173 (2022)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Anisotropic Magnon Spin Transport in Ultrathin Spinel Ferrite Thin Films─Evidence for Anisotropy in Exchange Stiffness</title>
-      <link>https://nanrock008.github.io/publication/li-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://nanrock008.github.io/publication/li-2022/</guid>
-      <description></description>
     </item>
     
   </channel>
