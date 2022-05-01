@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Li | Nan Laboratory</title>
+    <link>https://nanrock008.github.io/author/tao-li/</link>
+      <atom:link href="https://nanrock008.github.io/author/tao-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
+      <title>Tao Li</title>
+      <link>https://nanrock008.github.io/author/tao-li/</link>
+    </image>
+    
+    <item>
+      <title>Periodic Wrinkle-Patterned Single-Crystalline Ferroelectric Oxide Membranes with Enhanced Piezoelectricity</title>
+      <link>https://nanrock008.github.io/publication/dong-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/dong-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

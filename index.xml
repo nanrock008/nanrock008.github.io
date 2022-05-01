@@ -5,12 +5,20 @@
     <link>https://nanrock008.github.io/</link>
       <atom:link href="https://nanrock008.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nan Laboratory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Tue, 25 May 2021 12:36:38 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>NanLab 2020</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nanrock008.github.io/images/logo_hudafa2c7080e4ffebc6f3bf0b6b58f48b_217893_300x300_fit_lanczos_2.png</url>
       <title>Nan Laboratory</title>
       <link>https://nanrock008.github.io/</link>
     </image>
+    
+    <item>
+      <title>Anisotropic Magnon Spin Transport in Ultrathin Spinel Ferrite Thin Films─Evidence for Anisotropy in Exchange Stiffness</title>
+      <link>https://nanrock008.github.io/publication/li-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/li-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tianxiang gave an invited seminar at the Institute of Physics, CAS</title>
@@ -74,14 +82,6 @@
 &lt;p&gt;In this work, we show control of the spin polarization direction by using a non-collinear antiferromagnet Mn3GaN, in which the triangular spin structure creates a low magnetic symmetry while maintaining a high crystalline symmetry. We demonstrate that epitaxial Mn3GaN/permalloy heterostructures can generate unconventional spin-orbit torques at room temperature corresponding to out-of-plane and Dresselhaus-like spin polarizations which are forbidden in any sample with two-fold rotational symmetry. Our results demonstrate an approach based on spin-structure design for controlling spin-orbit torque, enabling high-efficient antiferromagnetic spintronics.&lt;/p&gt;
 &lt;p&gt;T. Nan, C. X. Quintela, J. Irwin, &lt;em&gt;et al.&lt;/em&gt; &lt;em&gt;Nature Communications&lt;/em&gt; &lt;strong&gt;11&lt;/strong&gt;, 4671 (2020)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Controlling spin current polarization through non-collinear antiferromagnetism</title>
-      <link>https://nanrock008.github.io/publication/nan-2020/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://nanrock008.github.io/publication/nan-2020/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -170,15 +170,39 @@
     </item>
     
     <item>
+      <title>Controlling spin current polarization through non-collinear antiferromagnetism</title>
+      <link>https://nanrock008.github.io/publication/nan-2019-d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2019-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric-field control of spin dynamics during magnetic phase transitions</title>
+      <link>https://nanrock008.github.io/publication/nan-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/nan-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epitaxial antiperovskite/perovskite heterostructures for materials design</title>
       <link>https://nanrock008.github.io/publication/quintela-2020/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://nanrock008.github.io/publication/quintela-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spontaneous Hall effect enhanced by local Ir moments in epitaxial Pr2Ir2O7 thin films</title>
+      <title>Periodic Wrinkle-Patterned Single-Crystalline Ferroelectric Oxide Membranes with Enhanced Piezoelectricity</title>
+      <link>https://nanrock008.github.io/publication/dong-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nanrock008.github.io/publication/dong-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous Hall effect enhanced by local Ir moments in epitaxial P r2 i r2 O7 thin films</title>
       <link>https://nanrock008.github.io/publication/guo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://nanrock008.github.io/publication/guo-2020/</guid>
@@ -482,7 +506,7 @@
     </item>
     
     <item>
-      <title>Voltage control of magnetism in FeGaB/PIN-PMN-PT multiferroic heterostructures for high-power and high-temperature applications</title>
+      <title>Voltage control of magnetism in laminated LiFe5O8/PMN-PT multiferroic composites</title>
       <link>https://nanrock008.github.io/publication/hu-2015-voltage/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://nanrock008.github.io/publication/hu-2015-voltage/</guid>
